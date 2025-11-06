@@ -108,7 +108,7 @@ export default function Home() {
               <div className="space-y-4">
                 <div className="text-sm text-muted-foreground font-mono">SKILLS</div>
                 <div className="flex flex-wrap gap-2">
-                  {["Python", "SQL", "Flask", "Docker", "Git", "AWS"].map((skill) => (
+                  {["Python", "SQL", "Flask", "Docker", "Git", "AWS", "n8n"].map((skill) => (
                     <span
                       key={skill}
                       className="px-3 py-1 text-xs border border-border rounded-full hover:border-muted-foreground/50 transition-colors duration-300"
