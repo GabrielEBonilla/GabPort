@@ -88,9 +88,8 @@ export default function Home() {
                 <div className="flex flex-col sm:flex-row sm:items-center gap-3 sm:gap-4 text-sm text-muted-foreground">
                   <div className="flex items-center gap-2">
                     <div className="w-2 h-2 bg-emerald-500 rounded-full animate-pulse"></div>
-                    Available for opportunities
+                    Available for opportunities in Puerto Rico
                   </div>
-                  <div>Puerto Rico</div>
                 </div>
               </div>
             </div>
@@ -129,7 +128,7 @@ export default function Home() {
         >
           <div className="space-y-12 sm:space-y-16">
             <div className="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4">
-              <h2 className="text-3xl sm:text-4xl font-light">Selected Projects</h2>
+              <h2 className="text-3xl sm:text-4xl font-light">Projects</h2>
               <div className="text-sm text-muted-foreground font-mono">2023 — 2025</div>
             </div>
 
